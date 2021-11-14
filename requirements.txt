@@ -55,7 +55,7 @@ colorlover==0.3.0
 combo==0.1.1
 comtypes==1.1.7
 conda
-conda-build==3.18.11
+conda-build
 conda-package-handling==1.7.0
 conda-verify==3.4.2
 config==0.5.0.post0
