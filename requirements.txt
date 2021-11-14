@@ -293,7 +293,7 @@ setuptools
 simple-image-download==0.4
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
-sip==4.19.13
+sip
 six==1.15.0
 smart-open==3.0.0
 smmap==3.0.4
