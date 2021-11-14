@@ -283,7 +283,7 @@ seaborn==0.11.1
 selenium==3.141.0
 Send2Trash==1.5.0
 setuptools
-simple-image-download==0.4
+simple-image-download
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 sip
