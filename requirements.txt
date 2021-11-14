@@ -3,7 +3,7 @@ alabaster==0.7.12
 alembic==1.4.1
 altair==4.1.0
 anaconda-client
-anaconda-navigator
+anaconda-navigator==1.9.7
 anaconda-project
 aniso8601==9.0.1
 argh==0.26.2
