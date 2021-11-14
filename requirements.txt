@@ -49,7 +49,7 @@ chardet==3.0.4
 charset-normalizer==2.0.7
 click==7.1.2
 cloudpickle==1.5.0
-clyent==1.2.2
+clyent
 colorama==0.4.3
 colorlover==0.3.0
 combo==0.1.1
