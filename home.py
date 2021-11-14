@@ -10,7 +10,7 @@ from wavelet import waveletfn
 classnum = {}
 classname = {}
 __model=[]
-with open(r'C:/Users/prakhar/Desktop/DsProj3/artifacts/labeldictionary.json', "r") as f:
+with open(r'artifacts\labeldictionary.json', "r") as f:
     classnum = json.load(f)
     classname = {v:k for k,v in classnum.items()}
 with open(r'C:\Users\prakhar\Desktop\DsProj3\artifacts\saved_model.pkl', 'rb') as f:
