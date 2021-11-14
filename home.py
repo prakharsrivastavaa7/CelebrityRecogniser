@@ -50,8 +50,8 @@ if input is not None:
     st.image(imgp,caption="Image Uploaded")
 
     if st.button('PREDICT'):
-        face_cascade = cv2.CascadeClassifier(r'C:\Users\prakhar\Desktop\DsProj3\haar-cascade-files-master\haarcascade_frontalface_default.xml')
-        eye_cascade = cv2.CascadeClassifier(r'C:\Users\prakhar\Desktop\DsProj3\haar-cascade-files-master\haarcascade_eye.xml')
+        face_cascade = cv2.CascadeClassifier(r'haarcascade_frontalface_default.xml')
+        eye_cascade = cv2.CascadeClassifier(r'haarcascade_eye.xml')
         img = cv2.cvtColor(np.array(imgp), cv2.COLOR_RGB2BGR)
         gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
         faces = face_cascade.detectMultiScale(gray, 1.3, 5)
