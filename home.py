@@ -13,7 +13,7 @@ __model=[]
 with open(r'labeldictionary.json', "r") as f:
     classnum = json.load(f)
     classname = {v:k for k,v in classnum.items()}
-with open(r'C:\Users\prakhar\Desktop\DsProj3\saved_model.pkl', 'rb') as f:
+with open(r'saved_model.pkl', 'rb') as f:
     __model = joblib.load(f)
 
 st.markdown(
