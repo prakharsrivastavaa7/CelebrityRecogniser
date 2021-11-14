@@ -13,4 +13,4 @@ simple-image-download
 simplegeneric==0.8.1
 numpy==1.19.5
 numpydoc==1.1.0
-opencv-python==4.4.0.42
+opencv-python-headless
