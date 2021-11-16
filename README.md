@@ -98,5 +98,5 @@ The web app is deployed for free through streamlit which supports python app
 ## Future Scope
 
 * Use multiple Algorithms
-* Optimize Flask app.py
+* Optimize Streamlit app
 * Imporve Front-End 
