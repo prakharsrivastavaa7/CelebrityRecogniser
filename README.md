@@ -82,8 +82,8 @@ The web app is deployed for free through streamlit which supports python app
 ├── Procfile
 ├── requirements.txt
 ├── Novelty.pdf
-├── Flowchart_DS.pdf
-├── I_O_Screenshots_DS.pdf
+├── Flowchart.jpeg
+├── Main Page-converted.pdf
 ```
 
 ## Technologies Used
