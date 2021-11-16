@@ -53,19 +53,32 @@ The project has been designed as part of the evaluation scheme of my college cou
 
 ## Deployement on Streamlit
 The web app is deployed for free through streamlit which supports python app 
+
+
 [<img target="_blank" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg" width=170>](https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg) 
+
 
 
 
 ## Directory Tree 
 ```
-├── templates
-│   ├── index.html
-│   ├── main.html	
+├── croppedaamir_khan_images
+├── croppeddeepika_padukone_images
+├── croppedemma_watson_images
+├── croppedkevin_hart_images
+├── croppedleonardo_di_caprio_images
+├── croppedsalman_khan_images
+├── haar-cascade-files-master
+├── haarcascade_eye.xml
+├── haarcascade_frontalface_default.xml
+├── labeldictionary.json
 ├── README.md
-├── app.py
-├── AirBnB_Predictor.ipynb		
-├── file.pkl
+├── home.py
+├── wavelet.py
+├── setup.sh
+├── Datasetgeneration.ipynb		
+├── ImageClassification.ipynb	
+├── saved_model.pkl
 ├── Procfile
 ├── requirements.txt
 ├── Novelty.pdf
@@ -77,7 +90,10 @@ The web app is deployed for free through streamlit which supports python app
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
-[<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
+[<img target="_blank" src="https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg" width=170>](https://mms.businesswire.com/media/20200616005364/en/798639/23/Streamlit_Logo_%281%29.jpg)  
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png)
+
 
 ## Future Scope
 
