@@ -25,7 +25,7 @@ The landing page of the website takes user inputs for the image as shown below-
 ![image](https://user-images.githubusercontent.com/63156822/141937327-61237517-9257-4067-b0bf-9305f53ef6ab.png)
 
 
-![image](https://user-images.githubusercontent.com/63156822/141937347-9f2d8e4b-c15f-46e2-b06e-7f31c65ee675.png)
+![image](https://user-images.githubusercontent.com/63156822/141937500-e056a272-a166-4e33-b3ea-f7bfe55578ef.png)
 
 
 
