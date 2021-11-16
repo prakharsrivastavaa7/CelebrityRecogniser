@@ -22,10 +22,10 @@ This is a streamlit web app which inputs an image and recognises whether it matc
 
 The landing page of the website takes user inputs for the image as shown below-
 
-![image](https://user-images.githubusercontent.com/63156822/141936189-deaf0e86-9d6b-4ef1-86ec-07ea23da95a9.png)
+![image](https://user-images.githubusercontent.com/63156822/141937327-61237517-9257-4067-b0bf-9305f53ef6ab.png)
 
 
-![image](https://user-images.githubusercontent.com/63156822/141936284-7773d6a7-b442-4126-8ce2-f2610600716d.png)
+![image](https://user-images.githubusercontent.com/63156822/141937347-9f2d8e4b-c15f-46e2-b06e-7f31c65ee675.png)
 
 
 
@@ -33,11 +33,11 @@ The landing page of the website takes user inputs for the image as shown below-
 
 After clicking on predict the output price will be shown as follows:
 
-![image](https://user-images.githubusercontent.com/63156822/141936608-6e3f69a2-1ca7-4c4d-ae55-f62d953922ff.png)
+![image](https://user-images.githubusercontent.com/63156822/141937404-a6e7dd91-a02f-48b1-b6da-348eeca11d07.png)
 
 Along with the name of the celebrity the webapp will also display the probability score for each of the data item as follows
 
-![image](https://user-images.githubusercontent.com/63156822/141936729-c4bb9f02-d7d9-4f43-bd83-f7962203e9d6.png)
+![image](https://user-images.githubusercontent.com/63156822/141937423-a970296f-ee00-463d-94ce-b4f5757fd722.png)
 
 
   ### Flowchart
